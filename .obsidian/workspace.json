@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "48bc707d99d11c32",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5cf1bbcfa2311af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e453f8e3b72ccc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artists/侯孝賢 Hsiao-hsien Hou.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83caa5ab16c012fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Queries/Query by artists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d5121b0b2475448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Queries/Query by type.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "712c292123617832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Queries/用藝人查詢.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "575efc76f74b2b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Movies/無間道 (2002).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "472260f728a34f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/From-Template-Artist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c83c666521cdffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c84a79e8345b4b02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b3019223316abb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d6de195d30e9522",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3e1746a1415e1e7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c775605b57f43aba",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f0c990326da183d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a07f535154346758",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Queries/Query by type.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b329dfce81dd8a91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Queries/Query by type.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56f6c7c50f56cf3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0bea75371cb2f75e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Queries/Query by type.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "1d5121b0b2475448",
+  "lastOpenFiles": [
+    "Movies/無間道 (2002).md",
+    "Templates/From-Template-Movie.md",
+    "Queries/Query by type.md",
+    "Queries/Query by artists.md",
+    "Artists/侯孝賢 Hsiao-hsien Hou.md",
+    "Queries/用藝人查詢.md",
+    "Movies/悲情城市 (1989).md",
+    "Movies/冬冬的假期 (1984).md",
+    "Artists/梁朝偉 Tony Leung Chiu Wai.md",
+    "Movies/童年往事 (1985).md",
+    "Movies/戲夢人生 (1993).md",
+    "Movies/戀戀風塵 (1986).md",
+    "Templates/From-Template-Artist.md",
+    "Queries",
+    "Movies",
+    "Artists",
+    "Templates"
+  ]
+}
